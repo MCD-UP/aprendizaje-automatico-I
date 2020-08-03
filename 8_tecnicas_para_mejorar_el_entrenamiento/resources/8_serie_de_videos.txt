@@ -1,0 +1,39 @@
+- Introducción
+La sesión tiene por objetivo cubrir algunos temas relacionados con el mejoramiento del entrenamiento en aprendizaje máquina. La sesión es introductoria y se deja a consideración del estudiante buscar mayor información al respecto.
+
+La sesión cubre los siguientes temas:
+
+Métodos de validación
+Métodos de optimización de modelos
+
+
+
+- Métodos de validación
+Los métodos de validación miden el desempeño de un modelo inducido. 
+
+En el siguiente video, se explican cuatro métodos de validación usuales en aprendizaje máquina (tiempo: 18 minutos): 
+https://drive.google.com/file/d/16PK8CiKRrYdVOBq4AVYY-QjWtWJ7UPkB/view?usp=sharing
+
+A continuación, el video comenta el código que ejemplifica los métodos de validación. 
+
+Para ver el video sigue el enlace (tiempo: 10 minutos):
+https://drive.google.com/file/d/1TZOJgHSHkm37EGNGf2ZeXZaEe-eG6Br9/view?usp=sharing
+
+Para ver el código:
+https://moodle.up.edu.mx/pluginfile.php/2000479/mod_lesson/page_contents/4233/validacion.ipynb?time=1585169591804
+
+
+
+- Métodos de optimización de modelos
+Los métodos de optimización de modelos permiten definir la arquitectura y los híper-parámetros del modelo empleado con la finalidad de mejorar el desempeño y adecuarlo al conjunto de datos. 
+
+En el siguiente video se explican dichos métodos de optimización (tiempo: 15 minutos):
+https://drive.google.com/file/d/1yA6g2xTPALTQq_TfyagsDQyZBohqUWmI/view?usp=sharing
+
+A continuación, el video comenta el código que ejemplifica los métodos de optimización de modelos. 
+
+Para ver el video sigue el enlace (tiempo: 15 minutos):
+https://drive.google.com/file/d/17bnWNEjCLn6UoMW4ntLZ93u59fABSOkK/view?usp=sharing
+
+Para ver el código:
+https://moodle.up.edu.mx/pluginfile.php/2000479/mod_lesson/page_contents/4236/optimizacion-modelos.ipynb

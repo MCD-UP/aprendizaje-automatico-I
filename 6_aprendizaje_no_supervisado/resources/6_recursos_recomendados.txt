@@ -1,0 +1,18 @@
+- https://pomegranate.readthedocs.io/en/latest/GeneralMixtureModel.html 
+En este recurso en línea se puede encontrar la implementación de los modelos de mezclas generales utilizando diferentes distribuciones de probabilidad, no sólo funciones de distribución Gaussianas. La implementación está en Python a través de la librería pomegranate; pero hace uso de una sintaxis similar a la que hemos visto con sci-kit learn. 
+
+
+- https://pomegranate.readthedocs.io/en/latest/Distributions.html
+En el recurso electrónico anterior se menciona que se pueden utilizar diferentes distribuciones de un listado definido. Este listado lo pueden encontrar en este segundo sitio. 
+
+
+- Bandyopadhyay, S., Saha, S., Unsupervised Classification: Similarity Measures, Classical and Metaheuristic Approaches, and Applications, Springer-Verlag, 2013.
+Libro del cual se recomienda el siguiente capítulo: Chapter 3: Similarity Measures. (PDF disponible en carpeta.)
+
+
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0144059
+En este artículo científico se comparan algunas métricas.
+
+
+-https://scikit-learn.org/stable/modules/clustering.html 
+Si se requiere un comparativo rápido sobre algoritmos de agrupación implementados en sci-kit learn, en este sitio se puede revisar la documentación específica sobre estos métodos (sklearn.cluster).  
